@@ -30,4 +30,4 @@ India - 1
 USA - 216
 
 
-You should relate both code and report to get better idea.
+Go through both report and code simultaneously.
