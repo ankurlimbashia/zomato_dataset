@@ -2,9 +2,8 @@
 
 details of zomato.csv
 
-Restaurant Id : Unique id of every restaurant across various cities of the world
-  Restaurant Name : Name of the restaurant
-
+Restaurant Id : Unique id of every restaurant across various cities of the world  
+Restaurant Name : Name of the restaurant  
 Country Code : Country in which restaurant is located
 City : City in which restaurant is located
 Address : Address of the restaurant
@@ -28,8 +27,8 @@ Votes : Number of ratings casted by people
 Country codes:
 
 
-India - 1
-  USA - 216
+India - 1  
+USA - 216
 
 
 You should relate both code and report to get better idea.
