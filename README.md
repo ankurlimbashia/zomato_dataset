@@ -1,6 +1,6 @@
 # About Zomato dataset
 
-details of zomato.csv
+zomato dataset consists of following details:
 
 Restaurant Id : Unique id of every restaurant across various cities of the world  
 Restaurant Name : Name of the restaurant  
